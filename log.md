@@ -1,2 +1,5 @@
 ## 8/18, Mon.
-- svm.
+- svm. (wip)
+
+## 8/19, Tue.
+- dt (theory).
